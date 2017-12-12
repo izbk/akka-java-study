@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>hello-akka-java</groupId>
+  <artifactId>akka-java-study</artifactId>
+  <version>1.0</version>
+  <packaging>pom</packaging>
+
+  <modules>
+    <module>server</module>
+    <module>client</module>
+    <module>akkademaid-java03</module>
+    <module>akkademy-db-java</module>
+    <module>akkademy-db-client-java</module>
+    <module>akkademaid-java05</module>
+    <module>java-akka-chat</module>
+    <module>akka-event-bus</module>
+    <module>akka-logging</module>
+    <module>akka-agent</module>
+    <module>mailbox-demo-java</module>
+    <module>akkademaid-java</module>
+    <module>akkademaid-client-java</module>
+  </modules>
+
+</project>
